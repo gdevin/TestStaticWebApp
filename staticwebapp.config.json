@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/",
-            "redirect": "/adfs/ls/idpinitiatedsignon.aspx",
+            "redirect": "https://outlook.office.com",
             "statusCode": 301
         }
     ]
