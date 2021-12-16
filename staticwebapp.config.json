@@ -1,8 +1,8 @@
 {
     "routes": [
         {
-            "route": "/redirectToAboutPage",
-            "redirect": "/about",
+            "route": "/",
+            "redirect": "/adfs/ls/idpinitiatedsignon.aspx",
             "statusCode": 301
         }
     ]
